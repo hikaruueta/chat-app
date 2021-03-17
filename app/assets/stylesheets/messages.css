@@ -35,7 +35,7 @@
 
 .rooms {
   background-color: #2F3E51;
-  height: calc(a00vw - 300px);
+  height: calc(100vh - 100px);
   padding:  0 20px;
   overflow: scroll;
 }
@@ -52,8 +52,8 @@
 .chat {
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
-  display: flex;
-  justify-content: space-between;
+  /* display: flex;
+  justify-content: space-between; */
 }
 
 .header-title{
